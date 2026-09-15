@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "GGG",
+    " C "
+  ],
+  "key": {
+    "S": { "item": "minecraft:stick" },
+    "G": { "item": "minecraft:glass" },
+    "C": { "item": "minecraft:cobblestone" }
+  },
+  "result": { "item": "simplelantern:lantern_off" }
+}

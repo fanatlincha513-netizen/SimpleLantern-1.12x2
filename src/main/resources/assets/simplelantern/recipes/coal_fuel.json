@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:coal", "data": 0 },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "result": { "item": "simplelantern:coal_fuel" }
+}

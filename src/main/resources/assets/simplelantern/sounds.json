@@ -1,0 +1,5 @@
+{
+  "lantern_on":  { "category": "block", "sounds": [ { "name": "simplelantern:lantern_on",  "stream": false } ] },
+  "lantern_off": { "category": "block", "sounds": [ { "name": "simplelantern:lantern_off", "stream": false } ] },
+  "changemode":  { "category": "player", "sounds": [ { "name": "simplelantern:changemode",  "stream": false } ] }
+}

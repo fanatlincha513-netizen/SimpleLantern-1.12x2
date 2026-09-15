@@ -1,0 +1,6 @@
+item.simplelantern.coal_fuel.name=Угольное топливо
+item.simplelantern.lantern_off.name=Фонарь
+item.simplelantern.lantern_on.name=Фонарь
+tile.simplelantern.lantern_off.name=Фонарь
+tile.simplelantern.lantern_on.name=Фонарь
+message.simplelantern.no_fuel=Топливо закончилось!

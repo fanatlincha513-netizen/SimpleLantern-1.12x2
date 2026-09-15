@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "simplelantern",
+    "name": "Simple Lantern",
+    "description": "Its just a simple lantern, nothing special about it.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["FLUFFY2"],
+    "credits": "Created by FLUFFY2!",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

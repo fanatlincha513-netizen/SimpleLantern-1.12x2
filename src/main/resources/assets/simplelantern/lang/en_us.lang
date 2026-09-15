@@ -1,0 +1,6 @@
+item.simplelantern.coal_fuel.name=Coal Fuel
+item.simplelantern.lantern_off.name=Lantern
+item.simplelantern.lantern_on.name=Lantern
+tile.simplelantern.lantern_off.name=Lantern
+tile.simplelantern.lantern_on.name=Lantern
+message.simplelantern.no_fuel=Out of fuel!
